@@ -1,0 +1,118 @@
+hilt_aggregated_deps/edu_uca_personality_di_RoomModuleModuleDeps.java
+ hilt_aggregated_deps.edu_uca_personality_di_RoomModuleModuleDeps
+edu/uca/personality/ig/MainViewModel_HiltModule.java
+ edu.uca.personality.ig.MainViewModel_HiltModule
+hilt_aggregated_deps/edu_uca_personality_di_AdapterModuleModuleDeps.java
+ hilt_aggregated_deps.edu_uca_personality_di_AdapterModuleModuleDeps
+hilt_aggregated_deps/edu_uca_personality_di_RepositoryModuleModuleDeps.java
+ hilt_aggregated_deps.edu_uca_personality_di_RepositoryModuleModuleDeps
+hilt_aggregated_deps/edu_uca_personality_ig_MainActivity_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.edu_uca_personality_ig_MainActivity_GeneratedInjectorModuleDeps
+edu/uca/personality/ig/MainActivity_GeneratedInjector.java
+ edu.uca.personality.ig.MainActivity_GeneratedInjector
+edu/uca/personality/ig/fragment/MainNavigationHostFragment_GeneratedInjector.java
+ edu.uca.personality.ig.fragment.MainNavigationHostFragment_GeneratedInjector
+hilt_aggregated_deps/edu_uca_personality_ig_fragment_MainNavigationHostFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.edu_uca_personality_ig_fragment_MainNavigationHostFragment_GeneratedInjectorModuleDeps
+edu/uca/personality/ig/Hilt_MyApplication.java
+ edu.uca.personality.ig.Hilt_MyApplication
+ edu.uca.personality.ig.Hilt_MyApplication$1
+edu/uca/personality/ig/MyApplication_HiltComponents.java
+ edu.uca.personality.ig.MyApplication_HiltComponents
+ edu.uca.personality.ig.MyApplication_HiltComponents$ActivityC
+ edu.uca.personality.ig.MyApplication_HiltComponents$ActivityC$Builder
+ edu.uca.personality.ig.MyApplication_HiltComponents$ActivityCBuilderModule
+ edu.uca.personality.ig.MyApplication_HiltComponents$ActivityRetainedC
+ edu.uca.personality.ig.MyApplication_HiltComponents$ActivityRetainedC$Builder
+ edu.uca.personality.ig.MyApplication_HiltComponents$ActivityRetainedCBuilderModule
+ edu.uca.personality.ig.MyApplication_HiltComponents$ApplicationC
+ edu.uca.personality.ig.MyApplication_HiltComponents$FragmentC
+ edu.uca.personality.ig.MyApplication_HiltComponents$FragmentC$Builder
+ edu.uca.personality.ig.MyApplication_HiltComponents$FragmentCBuilderModule
+ edu.uca.personality.ig.MyApplication_HiltComponents$ServiceC
+ edu.uca.personality.ig.MyApplication_HiltComponents$ServiceC$Builder
+ edu.uca.personality.ig.MyApplication_HiltComponents$ServiceCBuilderModule
+ edu.uca.personality.ig.MyApplication_HiltComponents$ViewC
+ edu.uca.personality.ig.MyApplication_HiltComponents$ViewC$Builder
+ edu.uca.personality.ig.MyApplication_HiltComponents$ViewCBuilderModule
+ edu.uca.personality.ig.MyApplication_HiltComponents$ViewWithFragmentC
+ edu.uca.personality.ig.MyApplication_HiltComponents$ViewWithFragmentC$Builder
+ edu.uca.personality.ig.MyApplication_HiltComponents$ViewWithFragmentCBuilderModule
+edu/uca/personality/ig/fragment/MainFragmentFactory_Factory.java
+ edu.uca.personality.ig.fragment.MainFragmentFactory_Factory
+ edu.uca.personality.ig.fragment.MainFragmentFactory_Factory$InstanceHolder
+edu/uca/personality/ig/fragment/MainFragment_GeneratedInjector.java
+ edu.uca.personality.ig.fragment.MainFragment_GeneratedInjector
+edu/uca/personality/di/RetrofitModule_ProvideRetrofitFactory.java
+ edu.uca.personality.di.RetrofitModule_ProvideRetrofitFactory
+edu/uca/personality/ig/MainViewModel_AssistedFactory_Factory.java
+ edu.uca.personality.ig.MainViewModel_AssistedFactory_Factory
+edu/uca/personality/di/AdapterModule_ProvideAdapterGenresFactory.java
+ edu.uca.personality.di.AdapterModule_ProvideAdapterGenresFactory
+edu/uca/personality/di/RoomModule_ProvidePlaceDbFactory.java
+ edu.uca.personality.di.RoomModule_ProvidePlaceDbFactory
+edu/uca/personality/di/RepositoryModule_ProvidePlaceRepositoryFactory.java
+ edu.uca.personality.di.RepositoryModule_ProvidePlaceRepositoryFactory
+edu/uca/personality/ig/fragment/MainFragment_MembersInjector.java
+ edu.uca.personality.ig.fragment.MainFragment_MembersInjector
+edu/uca/personality/room/CacheMapper_Factory.java
+ edu.uca.personality.room.CacheMapper_Factory
+ edu.uca.personality.room.CacheMapper_Factory$InstanceHolder
+edu/uca/personality/retrofit/NetworkMapper_Factory.java
+ edu.uca.personality.retrofit.NetworkMapper_Factory
+ edu.uca.personality.retrofit.NetworkMapper_Factory$InstanceHolder
+hilt_aggregated_deps/edu_uca_personality_ig_fragment_MainFragment_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.edu_uca_personality_ig_fragment_MainFragment_GeneratedInjectorModuleDeps
+edu/uca/personality/ig/Hilt_MainActivity.java
+ edu.uca.personality.ig.Hilt_MainActivity
+edu/uca/personality/ig/MyApplication_GeneratedInjector.java
+ edu.uca.personality.ig.MyApplication_GeneratedInjector
+edu/uca/personality/di/RetrofitModule_ProvidesGsonBuilderFactory.java
+ edu.uca.personality.di.RetrofitModule_ProvidesGsonBuilderFactory
+ edu.uca.personality.di.RetrofitModule_ProvidesGsonBuilderFactory$InstanceHolder
+edu/uca/personality/ig/DaggerMyApplication_HiltComponents_ApplicationC.java
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$1
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCBuilder
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCBuilder
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCBuilder
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCBuilder
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$FragmentCImpl$ViewWithFragmentCImpl
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$SwitchingProvider
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$ViewCBuilder
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ActivityRetainedCImpl$ActivityCImpl$ViewCImpl
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$Builder
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ServiceCBuilder
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$ServiceCImpl
+ edu.uca.personality.ig.DaggerMyApplication_HiltComponents_ApplicationC$SwitchingProvider
+edu/uca/personality/ig/fragment/Hilt_MainFragment.java
+ edu.uca.personality.ig.fragment.Hilt_MainFragment
+hilt_aggregated_deps/edu_uca_personality_di_RetrofitModuleModuleDeps.java
+ hilt_aggregated_deps.edu_uca_personality_di_RetrofitModuleModuleDeps
+edu/uca/personality/ig/fragment/Hilt_MainNavigationHostFragment.java
+ edu.uca.personality.ig.fragment.Hilt_MainNavigationHostFragment
+edu/uca/personality/BuildConfig.java
+ edu.uca.personality.BuildConfig
+edu/uca/personality/di/RoomModule_ProvidePlaceDaoFactory.java
+ edu.uca.personality.di.RoomModule_ProvidePlaceDaoFactory
+edu/uca/personality/room/PersonalityDatabase_Impl.java
+ edu.uca.personality.room.PersonalityDatabase_Impl
+ edu.uca.personality.room.PersonalityDatabase_Impl$1
+edu/uca/personality/ig/MainViewModel_AssistedFactory.java
+ edu.uca.personality.ig.MainViewModel_AssistedFactory
+edu/uca/personality/ig/fragment/MainNavigationHostFragment_MembersInjector.java
+ edu.uca.personality.ig.fragment.MainNavigationHostFragment_MembersInjector
+hilt_aggregated_deps/edu_uca_personality_ig_MyApplication_GeneratedInjectorModuleDeps.java
+ hilt_aggregated_deps.edu_uca_personality_ig_MyApplication_GeneratedInjectorModuleDeps
+hilt_aggregated_deps/edu_uca_personality_ig_MainViewModel_HiltModuleModuleDeps.java
+ hilt_aggregated_deps.edu_uca_personality_ig_MainViewModel_HiltModuleModuleDeps
+edu/uca/personality/di/RetrofitModule_ProvidePlaceServiceFactory.java
+ edu.uca.personality.di.RetrofitModule_ProvidePlaceServiceFactory
+edu/uca/personality/room/PersonalitiesDao_Impl.java
+ edu.uca.personality.room.PersonalitiesDao_Impl
+ edu.uca.personality.room.PersonalitiesDao_Impl$1
+ edu.uca.personality.room.PersonalitiesDao_Impl$2
+ edu.uca.personality.room.PersonalitiesDao_Impl$3
